@@ -20,7 +20,7 @@
 ```yaml
 Name:       Muhammad Zain
 Location:   Rawalpindi, Pakistan
-Education:  BS Computer Science — Bahria University, Islamabad (2015 - 2020)
+Education:  BS Computer Science — Bahria University, Islamabad (2015-2020)
 Experience: 3+ Years | 10+ Projects Completed
 
 Currently:
